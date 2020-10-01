@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2cfea938-6f91-4f5e-8d1a-7e17bd0b3681" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Class1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iGZPeD5yK1KkRkJy6VWiGIFupN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2cfea938-6f91-4f5e-8d1a-7e17bd0b3681" name="Default Changelist" comment="" />
+      <created>1601535878212</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601535878212</updated>
+      <workItem from="1601535882243" duration="4129000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="781" y="430" width="358" height="254" key="Github.ShareDialog" timestamp="1601538773106">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="781" y="430" width="358" height="254" key="Github.ShareDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1601538773106" />
+    <state x="660" y="158" width="589" height="798" key="Github.UntrackedFilesDialog" timestamp="1601538793700">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="660" y="158" width="589" height="798" key="Github.UntrackedFilesDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1601538793700" />
+    <state x="677" y="43" width="1022" height="737" key="SettingsEditor" timestamp="1601536979904">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="677" y="43" width="1022" height="737" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1601536979904" />
+    <state x="631" y="432" width="647" height="250" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1601539866324">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="631" y="432" width="647" height="250" key="git4idea.remote.GitConfigureRemotesDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1601539866324" />
+  </component>
+</project>

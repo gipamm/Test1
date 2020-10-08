@@ -1,0 +1,18 @@
+.red {
+    color: red;
+}
+
+p {
+    width: 50%;
+    color: blue;
+}
+
+#first {
+    font-size: 30px;
+    color: black;
+    background-image: url("220px-Vierne_1910.JPG");
+}
+
+.violet {
+    color: #992199;
+}

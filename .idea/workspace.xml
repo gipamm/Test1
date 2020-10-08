@@ -19,11 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2cfea938-6f91-4f5e-8d1a-7e17bd0b3681" name="Default Changelist" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="2cfea938-6f91-4f5e-8d1a-7e17bd0b3681" name="Default Changelist" comment="Add image commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1601535878212</updated>
       <workItem from="1601535882243" duration="4906000" />
-      <workItem from="1602132654784" duration="5412000" />
+      <workItem from="1602132654784" duration="5726000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1601541683411</created>
@@ -72,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601541683475</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add image commit">
+      <created>1602144814823</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602144814848</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,7 +94,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Add image commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add image commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="781" y="430" width="358" height="254" key="Github.ShareDialog" timestamp="1601538773106">
